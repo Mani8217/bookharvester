@@ -1,6 +1,6 @@
 # Virtual environments
 backend/  # پوشه محیط مجازی
-
+node_modules
 # macOS system files
 .DS_Store
 .venv
