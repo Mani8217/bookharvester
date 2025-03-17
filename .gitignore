@@ -1,0 +1,28 @@
+# Virtual environments
+backend/  # پوشه محیط مجازی
+
+# macOS system files
+.DS_Store
+.venv
+
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs & Database
+*.log
+db.sqlite3
+
+# Scrapy Cache
+.scrapy/
+
+# VSCode settings
+.vscode/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Pipenv files (Pipfile.lock may contain sensitive information)
+Pipfile.lock
