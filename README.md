@@ -80,5 +80,5 @@ The app should now be running at **http://127.0.0.1:8000/** 🎉
 
 ### Backend Tree 
 ---
-<img src="./assets/Screenshot 2025-03-17 at 20.23.16.png" alt="backend tree" />
+<img src="./assets/Screenshot 2025-03-17 at 20.23.16.png" alt="backend tree" width="80" height="150"/>
 ---
