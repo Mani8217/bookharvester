@@ -4,7 +4,10 @@
 **BookHarvester** is a web application that scrapes book data from various sources using **Scrapy** and stores the information in a **Django** backend with a **PostgreSQL** database. The data is then made available through a REST API.  
 
 
+![TRELLO]("https://trello.com/b/s0BTyezj/project-iii")
+
 ---
+
 
 ## 🚀 Features  
 
